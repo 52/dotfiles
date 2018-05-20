@@ -1,0 +1,8 @@
+[color]
+  ui = true
+[color "status"]
+  changed = cyan
+  untracked = cyan
+[user]
+  name = Example Name
+  email = example@local.com
